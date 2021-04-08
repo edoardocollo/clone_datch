@@ -21,6 +21,7 @@ window.Vue = require('vue');
 
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
 Vue.component('main-nav', require('./components/NavComponent.vue').default);
+Vue.component('jumbotron', require('./components/JumbotronComponent.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

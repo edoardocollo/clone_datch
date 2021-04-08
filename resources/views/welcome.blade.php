@@ -66,12 +66,14 @@
 
             .m-b-md {
                 margin-bottom: 30px;
+
             }
+
         </style>
     </head>
     <body>
       <div id="app">
         <main-nav></main-nav>
-      </div>
+        <jumbotron></jumbotron>
     </body>
 </html>

@@ -37,10 +37,10 @@
           </div>
         </div>
       <ul class="d-flex col-md-12 justify-content-center list-group-orizontal">
-        <li class="list-group-item py-0 px-5">lorem</li>
-        <li class="list-group-item py-0 px-5">lorem</li>
-        <li class="list-group-item py-0 px-5">lorem</li>
-        <li class="list-group-item py-0 px-5">lorem</li>
+        <li class="list-group-item py-0 px-5">TUTTI I PRODOTTI</li>
+        <li class="list-group-item py-0 px-5">OFFERTE DI SEMI</li>
+        <li class="list-group-item py-0 px-5">NOTIZIE E BLOG</li>
+        <li class="list-group-item py-0 px-5">SEED FINDER</li>
       </ul>
 
     </div>
