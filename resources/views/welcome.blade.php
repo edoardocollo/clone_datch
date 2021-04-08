@@ -70,34 +70,8 @@
         </style>
     </head>
     <body>
-      <nav class="container-fluid d-flex justify-content-center ">
-        <img src="img/logo.png" alt="" class="">
-        <div class="container m-0 d-flex flex-wrap justify-content-flex-start align-items-center">
-          <span class="col-md-6">TRUST loremsdsfsdfddfs</span>
-          <ul class="d-flex col-md-6 justify-content-center list-group-orizontal">
-            <li class="list-group-item">lorem</li>
-            <li class="list-group-item">lorem</li>
-            <li class="list-group-item">lorem</li>
-            <li class="list-group-item">lorem</li>
-          </ul>
-          <div class=" col-md-6">
-            <input type="text" name="" value="">
-          </div>
-          <div class="col-md-6 d-flex">
-            <div class="col-md-4">
-                lorem_card
-            </div>
-            <div class="col-md-4">
-                lorem_card
-            </div>
-            <div class="col-md-4">
-                lorem_card
-            </div>
-          </div>
-        </div>
-        <div class="">
-          <h2>CART</h2>
-        </div>
-      </nav>
+      <div id="app">
+        <main-nav></main-nav>
+      </div>
     </body>
 </html>
