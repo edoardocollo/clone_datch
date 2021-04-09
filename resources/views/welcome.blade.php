@@ -75,5 +75,6 @@
       <div id="app">
         <main-nav></main-nav>
         <jumbotron></jumbotron>
+        <main-top></main-top>
     </body>
 </html>
